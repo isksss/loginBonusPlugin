@@ -1,0 +1,4 @@
+name: loginBonusPlugin
+version: '${version}'
+main: dev.isksss.loginbonusplugin.LoginBonusPlugin
+api-version: 1.19
